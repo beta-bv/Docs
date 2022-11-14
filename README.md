@@ -16,3 +16,5 @@ Download GH Desktop en installeer het. Kun je best zelf.
   ![03](./img/clonen/03.png)
   ![04](./img/clonen/04.png)
 </details>
+
+yolo
