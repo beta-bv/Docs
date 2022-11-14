@@ -6,6 +6,12 @@ _How to use GitHub_
 
 Download GH Desktop en installeer het. Kun je best zelf.
 
+## BELANGRIJK
+
+```
+Fetch & Pull vaak! Zorgt voor minder merge conflicten
+```
+
 ## Uitleg
 
 <details>
