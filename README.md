@@ -88,6 +88,10 @@ Download GH Desktop en installeer het. Kun je best zelf.
   ### Stap 1
 
   ![01](./img/merging/01.png)
+  
+  ### Stap 2
+
+  ![02](./img/merging/02.png)
 
 </details>
 
