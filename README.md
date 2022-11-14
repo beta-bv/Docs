@@ -62,8 +62,32 @@ Download GH Desktop en installeer het. Kun je best zelf.
 </details>
 
 <details>
-  <summary>Pull Request & Mergen</summary>
+  <summary>Pull Request</summary>
   
   ### Stap 1
 
+  ![01](./img/pullrequest/01.png)
+  
+  ### Stap 2
+
+  ![02](./img/pullrequest/02.png)
+  
+  ### Stap 3
+
+  ![03](./img/pullrequest/03.png)
+  
+  ### Stap 4
+
+  ![04](./img/pullrequest/04.png)
+
 </details>
+
+<details>
+  <summary>Merging</summary>
+  
+  ### Stap 1
+
+  ![01](./img/merging/01.png)
+
+</details>
+
