@@ -94,4 +94,3 @@ Download GH Desktop en installeer het. Kun je best zelf.
   ![02](./img/merging/02.png)
 
 </details>
-
