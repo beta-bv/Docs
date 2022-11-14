@@ -41,12 +41,29 @@ Download GH Desktop en installeer het. Kun je best zelf.
   
   ### Stap 1
 
+  ![01](./img/nieuwe-usecase/01.png)
+  
+  ### Stap 2
+
+  ![02](./img/nieuwe-usecase/02.png)
+  
+  ### Stap 3
+
+  ![03](./img/nieuwe-usecase/03.png)
+  
+  ### Stap 4
+
+  ![04](./img/nieuwe-usecase/04.png)
+  
+  ### Stap 5
+
+  ![05](./img/nieuwe-usecase/05.png)
+
 </details>
 
 <details>
-  <summary>Mergen</summary>
+  <summary>Pull Request & Mergen</summary>
   
   ### Stap 1
 
 </details>
-
